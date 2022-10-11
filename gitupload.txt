@@ -20,3 +20,5 @@ $ git remote -v
  
 8. push 명령어를 실행하여 폴더를 업로드
 $ git push origin master
+
+https://ghstylus.tistory.com/5
